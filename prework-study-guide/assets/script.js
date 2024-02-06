@@ -27,3 +27,5 @@ listTopics();
 
 console.log('Which topic should we study first?');
 selectTopic();
+//adding comment so i can fix sync issue
+
